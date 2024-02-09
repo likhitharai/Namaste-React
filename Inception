@@ -1,0 +1,45 @@
+<div id="parent">
+    <div id="child">
+        <h1></h1>
+        <h1></h1>
+    </div>
+    <div id="child2">
+        <h1></h1>
+        <h1></h1>
+    </div>
+</div>
+
+/* For the above structure, we can code like below: */
+
+const parent = React.createElement("div", 
+    {id:"parent"},
+    [React.createElement("div", {id:"child1"}, [
+        React.createElement("h1", {id:"heading1"},"I am a heading"), 
+        React.createElement("h1", {id:"heading1"},"I am a heading"),
+    ]),
+    React.createElement("div", {id:"child2"}, [
+        React.createElement("h1", {id:"heading3"},"I am a heading"), 
+        React.createElement("h1", {id:"heading4"},"I am a heading"),
+    ]),
+]);
+
+
+
+
+Important points:
+
+/* Below is the code in index.html, under root */
+<div id ="root">
+	<h1>Likhitha is here</h1>
+</div>
+
+/* Below is the code in App.js, under root */
+react.render(parent)
+
+THIS PART(RENDER METHOD)  WILL REPLACE THE OROGINAL H1 TAG IN THE INDEX.HTML
+
+What if we have a div tag before and after root?
+Ans: It will be displayed as usual without issues (It will stay unaffected), while the
+other part of the react remains the same
+React is working only in the div #root
+React is a library. React works in the place where there is root only
