@@ -1,0 +1,26 @@
+### **#Parcel**
+
+- Dev build
+- Local server
+- File watching algorithm - Written in c++
+- Image optimization (As it is a very costly operation to be done)
+- Minification of the file (It will do bundling)
+- Compress the file
+- Consistent hashing
+- Code splitting
+- Differential bundling (Support older browsers) - Different type of folder browsers
+- Tree shaking algorithm - Remove un-used code for you
+- Beautiful diagnostics
+- HTTPS
+- Error handling
+- Different dev and prod bundles
+  npx 
+  In package.json, we can remove the entry point mentioned in the json file
+- Faster builds because of caching
+- - HMR = Hot module replacement
+    - Hot Module Replacement (HMR) exchanges, adds, or removes [modules](https://webpack.js.org/concepts/modules/) while an application is running, without a full reload. This can significantly speed up development in a few ways:
+    - Retain application state which is lost during a full reload.
+    - Save valuable development time by only updating what's changed.
+    - Instantly update the browser when modifications are made to CSS/JS in the source code, which is almost comparable to changing styles directly in the browser's dev tools.
+---------------------------------
+- Mainly parcel cache and dist are used. These 2 can be regenerated automatically. We can put this into gitignore, as it can be generated whenever we want.
