@@ -1,0 +1,286 @@
+export const resList = [{
+    "id": "25620",
+    "name": "KFC",
+    "city": "1",
+    "imglink":"",
+    "slugs": {
+      "restaurant": "kfc-intermediate-ring-road-koramangala",
+      "city": "bangalore"
+    },
+    "cloudinaryImageId": "f01666ac73626461d7455d9c24005cd4",
+    "address": "Shop No:13,16 & 17, Egipura Village,Intermediate Ring Road, Koramangala, Bangalore - 5600095",
+    "locality": "Intermediate Ring Road",
+    "areaName": "Ejipura",
+    "costForTwo": "₹400 FOR TWO",
+    "cuisines": [
+      "Burgers",
+      "Biryani",
+      "American",
+      "Snacks",
+      "Fast Food"
+    ],
+    "avgRating": 4.2,
+    "feeDetails": {
+      
+    },
+    "avgRatingString": "4.2",
+    "totalRatingsString": "10K+",
+    "sla": {
+      "deliveryTime": 19,
+      "minDeliveryTime": 15,
+      "maxDeliveryTime": 20,
+      "lastMileTravel": 0.8,
+      "serviceability": "SERVICEABLE",
+      "rainMode": "RAIN_MODE_NONE",
+      "slaString": "15-20 MINS",
+      "lastMileTravelString": "0.8 km",
+      "iconType": "ICON_TYPE_EMPTY"
+    }
+},
+{
+
+"id": "596064",
+"name": "Food Engineer",
+"city": "1",
+"slugs": {
+  "restaurant": "food-engineer-koramangala-koramangala"
+},
+"cloudinaryImageId": "r2thpiladx4u8kdbtcwt",
+"locality": "1st Stage",
+"areaName": " BTM Layout",
+"costForTwo": "₹599 for two",
+"cuisines": [
+  "Cakes and Pastries",
+  "Bakery"
+],
+"avgRating": 3.5,
+"feeDetails": {
+  "restaurantId": "596064",
+  "title": "Delivery Charge",
+  "amount": "0"
+},
+"totalRatingsString": "10+",
+"promoted": true,
+"adTrackingId": "cid=11103118~p=7~eid=0000018d-9da3-cc66-0eb8-e6a400a6077f~srvts=1707746774118~56861",
+"sla": {
+  "deliveryTime": 38,
+  "minDeliveryTime": 35,
+  "maxDeliveryTime": 40,
+  "serviceability": "SERVICEABLE",
+  "slaString": "35-40 MINS",
+  "lastMileTravelString": "2.1 km",
+  "iconType": "ICON_TYPE_EMPTY"
+}
+},
+{
+"id": "395357",
+                    "name": "McDonald's Gourmet Burger Collection",
+                    "city": "1",
+                    "slugs": {
+                      "restaurant": "mcdonalds-gourmet-burger-collection-bengaluru-koramangala-mantri-jupiter-mall-koramangala"
+                    },
+                    "cloudinaryImageId": "fh5fahgxshwu6a7jk0cl",
+                    "locality": "100 ft Ring Road",
+                    "areaName": "Koramangala",
+                    "costForTwo": "₹600 for two",
+                    "cuisines": [
+                      "Burgers",
+                      "Beverages",
+                      "Cafe",
+                      "Desserts"
+                    ],
+                    "avgRating": 4.8,
+                    "feeDetails": {
+                      "restaurantId": "395357",
+                      "title": "Delivery Charge",
+                      "amount": "0"
+                    },
+                    "totalRatingsString": "100+",
+                    "sla": {
+                      "deliveryTime": 20,
+                      "minDeliveryTime": 20,
+                      "maxDeliveryTime": 25,
+                      "serviceability": "SERVICEABLE",
+                      "slaString": "20-25 MINS",
+                      "lastMileTravelString": "1.4 km",
+                      "iconType": "ICON_TYPE_EMPTY"
+}
+},
+            {
+            "id": "59187",
+            "name": "Burger Mill",
+            "city": "1",
+            "slugs": {
+            "restaurant": "the-garage-food-company-sector-7-hsr-layout-hsr"
+            },
+            "cloudinaryImageId": "099ae9eaef74308e5a070287ed2bfdbd",
+            "locality": "HSR",
+            "areaName": "Hsr Layout",
+            "costForTwo": "₹250 for two",
+            "cuisines": [
+            "Burgers",
+            "Pizzas",
+            "Beverages",
+            "Snacks",
+            "Desserts"
+            ],
+            "avgRating": 4.1,
+            "feeDetails": {
+            "restaurantId": "59187",
+            "title": "Delivery Charge",
+            "amount": "0"
+            },
+            "totalRatingsString": "1K+",
+            "sla": {
+            "deliveryTime": 45,
+            "minDeliveryTime": 40,
+            "maxDeliveryTime": 45,
+            "serviceability": "SERVICEABLE",
+            "slaString": "40-45 MINS",
+            "lastMileTravelString": "5.0 km",
+            "iconType": "ICON_TYPE_EMPTY"
+            }
+        },
+        {
+            "id": "579014",
+                    "name": "Al-Bek",
+                    "city": "1",
+                    "slugs": {
+                      "restaurant": "al-bek-btm-btm-2"
+                    },
+                    "cloudinaryImageId": "hyjub00ykedvlawis8fd",
+                    "locality": "IBC Knowledge Park",
+                    "areaName": "Bannerghatta Main Road",
+                    "costForTwo": "₹300 for two",
+                    "cuisines": [
+                      "Arabian",
+                      "Tandoor",
+                      "Biryani"
+                    ],
+                    "avgRating": 4,
+                    "feeDetails": {
+                      "restaurantId": "579014",
+                      "title": "Delivery Charge",
+                      "amount": "0"
+                    },
+                    "totalRatingsString": "500+",
+                    "sla": {
+                      "deliveryTime": 45,
+                      "minDeliveryTime": 40,
+                      "maxDeliveryTime": 45,
+                      "serviceability": "SERVICEABLE",
+                      "slaString": "40-45 MINS",
+                      "lastMileTravelString": "4.5 km",
+                      "iconType": "ICON_TYPE_EMPTY"
+        }
+        
+        },
+            {
+                
+                    "id": "119163",
+                    "name": "City durbar",
+                    "city": "1",
+                    "slugs": {
+                    "restaurant": "city-durbar-jayanagar"
+                    },
+                    "cloudinaryImageId": "hucvda5t3crc9pcemyve",
+                    "locality": "4th T Block East",
+                    "areaName": "Jayanagar",
+                    "costForTwo": "₹450 for two",
+                    "cuisines": [
+                    "North Indian",
+                    "Chinese",
+                    "Biryani"
+                    ],
+                    "avgRating": 4.2,
+                    "feeDetails": {
+                    "restaurantId": "119163",
+                    "title": "Delivery Charge",
+                    "amount": "0"
+                    },
+                    "totalRatingsString": "1K+",
+                    "sla": {
+                    "deliveryTime": 40,
+                    "minDeliveryTime": 40,
+                    "maxDeliveryTime": 45,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "40-45 MINS",
+                    "lastMileTravelString": "4.8 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                    }
+        },
+
+        {
+                "id": "787252",
+                "name": "Seoul Fried Chicken",
+                "city": "1",
+                "slugs": {
+                "restaurant": "seoul-fried-chicken-koramangala-koramangala"
+                },
+                "cloudinaryImageId": "b76ed695e98af0127d588171d34795fd",
+                "locality": "Khb Colony",
+                "areaName": "Koramangala",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                "American",
+                "Fast Food",
+                "Snacks",
+                "Korean",
+                "Burgers",
+                "Beverages"
+                ],
+                "avgRating": 4,
+                "feeDetails": {
+                "restaurantId": "787252",
+                "title": "Delivery Charge",
+                "amount": "0"
+                },
+                "totalRatingsString": "20+",
+                "sla": {
+                "deliveryTime": 29,
+                "minDeliveryTime": 25,
+                "maxDeliveryTime": 30,
+                "serviceability": "SERVICEABLE",
+                "slaString": "25-30 MINS",
+                "lastMileTravelString": "0.1 km",
+                "iconType": "ICON_TYPE_EMPTY"
+                }
+        },
+        
+        {
+                "id": "770860",
+                "name": "Wings Factory",
+                "city": "1",
+                "slugs": {
+                "restaurant": "wings-factory-koramangala-koramangala"
+                },
+                "cloudinaryImageId": "aead3c8d7e0cb942e23532d0f5cd6980",
+                "locality": "1st Block Koramangala",
+                "areaName": "Koramangala",
+                "costForTwo": "₹400 for two",
+                "cuisines": [
+                "American",
+                "Korean",
+                "Burgers",
+                "Fast Food",
+                "Snacks"
+                ],
+                "avgRating": 4,
+                "feeDetails": {
+                "restaurantId": "770860",
+                "title": "Delivery Charge",
+                "amount": "0"
+                },
+                "totalRatingsString": "50+",
+                "sla": {
+                "deliveryTime": 34,
+                "minDeliveryTime": 30,
+                "maxDeliveryTime": 35,
+                "serviceability": "SERVICEABLE",
+                "slaString": "30-35 MINS",
+                "lastMileTravelString": "2.3 km",
+                "iconType": "ICON_TYPE_EMPTY"
+                }
+    }
+
+]
